@@ -1,6 +1,6 @@
-<!-- - 👋 Hi, I’m @Mohammed-Awaad -->
-<!-- - 👀 I’m interested in Web Development using MERN (Mongo DB - Express JS - React JS - Node JS) -->
-<!-- - 📫 How to reach me mo_awaad@outlook.com -->
+- 👋 Hi, I’m @Mohammed-Awaad
+- 👀 I’m interested in Web Development using MERN (Mongo DB - Express JS - React JS - Node JS)
+- 📫 How to reach me mo_awaad@outlook.com
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
